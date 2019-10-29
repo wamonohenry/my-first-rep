@@ -1,0 +1,15 @@
+img{ width: 200px;height: 100px;
+     margin-left:650px ;margin-right: 400px; margin-top: 200px;}
+p{margin-top:100px;
+  margin-bottom: 400px;
+  margin-left: 450px;
+  margin-right: 300px;
+  font-size: 15px}
+  header{margin-left:1100px;margin-top: 150px;}
+  form{padding-left: 600px;}
+  div, del{text-align: right;}
+  footer{background-color:lightslategrey);
+         margin-bottom: auto;margin-top: auto ;}
+  a{text-decoration: none;}
+  input{border-radius: 25px;padding: 10px;width: 300px;text-align: center;}
+ 
